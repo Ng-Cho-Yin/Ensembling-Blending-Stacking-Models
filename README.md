@@ -7,3 +7,6 @@ Also, there is baseline OptimizeAUC class in the code which is pythonic and pote
 (metrics.roc_auc_score(targets,preds))
  
  <img width="527" alt="螢幕截圖 2022-07-15 下午8 44 43" src="https://user-images.githubusercontent.com/56172862/179225497-732cc306-34ea-4325-884d-4957d0489540.png">
+
+
+DATA: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/versions/1
